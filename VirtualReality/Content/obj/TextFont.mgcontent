@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/TextFont.spritefont</SourceFile>
+  <SourceTime>2014-12-05T09:42:56.689865-08:00</SourceTime>
+  <DestFile>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/CompiledContent/TextFont.xnb</DestFile>
+  <DestTime>2014-12-05T09:43:18.8026001-08:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <Processor>FontDescriptionProcessor</Processor>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

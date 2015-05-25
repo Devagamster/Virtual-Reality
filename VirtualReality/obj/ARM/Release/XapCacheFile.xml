@@ -1,0 +1,54 @@
+﻿<xapCache source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Release\VirtualReality_Release_ARM.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="12/8/2014 3:26:09 PM">
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Release\resources.pri" archivePath="resources.pri" lastWriteTime="12/7/2014 2:07:41 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\ARM\Release\VirtualReality.dll" archivePath="VirtualReality.dll" lastWriteTime="12/8/2014 3:26:06 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="12/5/2014 1:19:41 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="12/5/2014 1:19:41 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="12/5/2014 1:19:41 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="12/5/2014 1:19:41 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="12/5/2014 1:19:41 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="12/5/2014 1:19:41 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="12/5/2014 1:19:41 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\Debug.png" archivePath="Content\Debug.png" lastWriteTime="10/12/2014 10:12:00 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\OculusRift.fx" archivePath="Content\OculusRift.fx" lastWriteTime="12/6/2014 2:03:39 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\Crosshair.xnb" archivePath="Content\CompiledContent\Crosshair.xnb" lastWriteTime="12/5/2014 5:39:09 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\Debug.xnb" archivePath="Content\CompiledContent\Debug.xnb" lastWriteTime="12/2/2014 12:54:10 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\Grass.xnb" archivePath="Content\CompiledContent\Grass.xnb" lastWriteTime="12/5/2014 3:57:17 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeBanner.xnb" archivePath="Content\CompiledContent\MazeBanner.xnb" lastWriteTime="12/6/2014 2:38:43 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeBarrel.xnb" archivePath="Content\CompiledContent\MazeBarrel.xnb" lastWriteTime="12/6/2014 2:38:43 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeBlueStone.xnb" archivePath="Content\CompiledContent\MazeBlueStone.xnb" lastWriteTime="12/6/2014 2:38:43 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeBoards.xnb" archivePath="Content\CompiledContent\MazeBoards.xnb" lastWriteTime="12/6/2014 2:38:43 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeBrick.xnb" archivePath="Content\CompiledContent\MazeBrick.xnb" lastWriteTime="12/6/2014 2:38:43 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeCobbleStone.xnb" archivePath="Content\CompiledContent\MazeCobbleStone.xnb" lastWriteTime="12/6/2014 2:38:43 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeLamp.xnb" archivePath="Content\CompiledContent\MazeLamp.xnb" lastWriteTime="12/6/2014 2:38:43 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeMossyStone.xnb" archivePath="Content\CompiledContent\MazeMossyStone.xnb" lastWriteTime="12/6/2014 2:38:43 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazePillar.xnb" archivePath="Content\CompiledContent\MazePillar.xnb" lastWriteTime="12/6/2014 2:38:43 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeStone.xnb" archivePath="Content\CompiledContent\MazeStone.xnb" lastWriteTime="12/6/2014 2:38:43 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeVines.xnb" archivePath="Content\CompiledContent\MazeVines.xnb" lastWriteTime="12/6/2014 2:38:43 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\OculusRift.xnb" archivePath="Content\CompiledContent\OculusRift.xnb" lastWriteTime="12/6/2014 9:23:37 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\TextFont.xnb" archivePath="Content\CompiledContent\TextFont.xnb" lastWriteTime="12/5/2014 9:43:18 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Content\CompiledContent\VrBaddie.xnb" archivePath="Content\CompiledContent\VrBaddie.xnb" lastWriteTime="12/6/2014 9:23:38 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="12/5/2014 8:12:08 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\HardwareWrapperWindowsPhone\Bin\ARM\Release\HardwareWrapperWindowsPhone.dll" archivePath="HardwareWrapperWindowsPhone.dll" lastWriteTime="12/8/2014 3:26:05 PM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\MonoGame.Framework.dll" archivePath="MonoGame.Framework.dll" lastWriteTime="11/30/2014 8:50:24 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\packages\SharpDX.2.6.3\Bin\DirectX11_1-wp8-ARM\SharpDX.Direct3D11.dll" archivePath="SharpDX.Direct3D11.dll" lastWriteTime="12/2/2014 1:14:46 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\packages\SharpDX.2.6.3\Bin\DirectX11_1-wp8-ARM\SharpDX.dll" archivePath="SharpDX.dll" lastWriteTime="12/2/2014 1:14:46 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\packages\SharpDX.2.6.3\Bin\DirectX11_1-wp8-ARM\SharpDX.DXGI.dll" archivePath="SharpDX.DXGI.dll" lastWriteTime="12/2/2014 1:14:46 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.XAudio2.dll" archivePath="SharpDX.XAudio2.dll" lastWriteTime="7/6/2014 8:54:56 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\packages\SharpDX.2.6.3\Bin\DirectX11_1-wp8-ARM\SharpDX.WP8.winmd" archivePath="SharpDX.WP8.winmd" lastWriteTime="12/2/2014 1:14:46 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\MonoGame.Framework.xml" archivePath="MonoGame.Framework.xml" lastWriteTime="11/30/2014 8:50:24 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\packages\SharpDX.2.6.3\Bin\DirectX11_1-wp8-ARM\SharpDX.xml" archivePath="SharpDX.xml" lastWriteTime="12/2/2014 1:14:46 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\packages\SharpDX.2.6.3\Bin\DirectX11_1-wp8-ARM\SharpDX.Direct3D11.xml" archivePath="SharpDX.Direct3D11.xml" lastWriteTime="12/2/2014 1:14:46 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\packages\SharpDX.2.6.3\Bin\DirectX11_1-wp8-ARM\SharpDX.DXGI.xml" archivePath="SharpDX.DXGI.xml" lastWriteTime="12/2/2014 1:14:46 AM" />
+  <file source="C:\Program Files (x86)\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.XAudio2.xml" archivePath="SharpDX.XAudio2.xml" lastWriteTime="7/6/2014 8:54:56 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\packages\SharpDX.2.6.3\Bin\DirectX11_1-wp8-ARM\SharpDX.WP8.dll" archivePath="SharpDX.WP8.dll" lastWriteTime="12/2/2014 1:14:46 AM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="12/5/2014 8:12:09 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\ARM\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="12/8/2014 3:26:07 PM" />
+  <file source="C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="12/7/2014 2:07:42 AM" />
+</xapCache>

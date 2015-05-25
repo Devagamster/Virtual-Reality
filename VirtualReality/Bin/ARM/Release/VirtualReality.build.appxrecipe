@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DOMINATOR</Machine>
+    <WindowsUser>Keith</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>7d2a4af8-92ec-40c8-8275-cce1f71a8730</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\obj\ARM\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Bin\ARM\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Bin\ARM\Release\VirtualReality.dll">
+      <PackagePath>VirtualReality.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\HardwareWrapperWindowsPhone\Bin\ARM\Release\HardwareWrapperWindowsPhone.dll">
+      <PackagePath>HardwareWrapperWindowsPhone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\MonoGame.Framework.dll">
+      <PackagePath>MonoGame.Framework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\packages\SharpDX.2.6.3\build\..\Bin\DirectX11_1-wp8-ARM\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\packages\SharpDX.2.6.3\build\..\Bin\DirectX11_1-wp8-ARM\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\packages\SharpDX.2.6.3\build\..\Bin\DirectX11_1-wp8-ARM\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\packages\SharpDX.2.6.3\build\..\Bin\DirectX11_1-wp8-ARM\SharpDX.WP8.dll">
+      <PackagePath>SharpDX.WP8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\packages\SharpDX.2.6.3\build\..\Bin\DirectX11_1-wp8-ARM\SharpDX.WP8.winmd">
+      <PackagePath>SharpDX.WP8.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\MonoGame.Framework.xml">
+      <PackagePath>MonoGame.Framework.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\packages\SharpDX.2.6.3\build\..\Bin\DirectX11_1-wp8-ARM\SharpDX.xml">
+      <PackagePath>SharpDX.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\packages\SharpDX.2.6.3\build\..\Bin\DirectX11_1-wp8-ARM\SharpDX.Direct3D11.xml">
+      <PackagePath>SharpDX.Direct3D11.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\packages\SharpDX.2.6.3\build\..\Bin\DirectX11_1-wp8-ARM\SharpDX.DXGI.xml">
+      <PackagePath>SharpDX.DXGI.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsPhone\ARM\SharpDX.XAudio2.xml">
+      <PackagePath>SharpDX.XAudio2.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\Debug.png">
+      <PackagePath>Content\Debug.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\OculusRift.fx">
+      <PackagePath>Content\OculusRift.fx</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\Crosshair.xnb">
+      <PackagePath>Content\CompiledContent\Crosshair.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\Debug.xnb">
+      <PackagePath>Content\CompiledContent\Debug.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\Grass.xnb">
+      <PackagePath>Content\CompiledContent\Grass.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeBanner.xnb">
+      <PackagePath>Content\CompiledContent\MazeBanner.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeBarrel.xnb">
+      <PackagePath>Content\CompiledContent\MazeBarrel.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeBlueStone.xnb">
+      <PackagePath>Content\CompiledContent\MazeBlueStone.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeBoards.xnb">
+      <PackagePath>Content\CompiledContent\MazeBoards.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeBrick.xnb">
+      <PackagePath>Content\CompiledContent\MazeBrick.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeCobbleStone.xnb">
+      <PackagePath>Content\CompiledContent\MazeCobbleStone.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeLamp.xnb">
+      <PackagePath>Content\CompiledContent\MazeLamp.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeMossyStone.xnb">
+      <PackagePath>Content\CompiledContent\MazeMossyStone.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazePillar.xnb">
+      <PackagePath>Content\CompiledContent\MazePillar.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeStone.xnb">
+      <PackagePath>Content\CompiledContent\MazeStone.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\MazeVines.xnb">
+      <PackagePath>Content\CompiledContent\MazeVines.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\OculusRift.xnb">
+      <PackagePath>Content\CompiledContent\OculusRift.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\TextFont.xnb">
+      <PackagePath>Content\CompiledContent\TextFont.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Content\CompiledContent\VrBaddie.xnb">
+      <PackagePath>Content\CompiledContent\VrBaddie.xnb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Keith\Dropbox\Keith%27s Crap\VirtualReality\VirtualReality\Bin\ARM\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

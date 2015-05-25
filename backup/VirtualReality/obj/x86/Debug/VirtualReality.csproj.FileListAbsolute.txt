@@ -1,0 +1,69 @@
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\VirtualReality.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\VirtualReality.pdb
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\AppManifest.xaml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\VirtualReality_Debug_x86.xap
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\MonoGame.Framework.pdb
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.xml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.WP8.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.csprojResolveAssemblyReference.cache
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\x86\Debug\App.g.cs
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\x86\Debug\GamePage.g.cs
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.g.resources
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.Resources.AppResources.resources
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.csproj.GenerateResource.Cache
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.pdb
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\x86\Debug\XapCacheFile.xml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\x86\Debug\Content\Debug.xnb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\Content\CompiledContent\Debug.xnb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\Content\CompiledContent\OculusRift.xnb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\VirtualReality.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\VirtualReality.pdb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\AppManifest.xaml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\VirtualReality_Debug_x86.xap
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\MonoGame.Framework.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SensorDataManager.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.WP8.winmd
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SensorDataManager.pdb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\MonoGame.Framework.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\x86\Debug\SharpDX.WP8.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.csprojResolveAssemblyReference.cache
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\x86\Debug\App.g.cs
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\x86\Debug\GamePage.g.cs
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.g.resources
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.Resources.AppResources.resources
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.csproj.GenerateResource.Cache
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\x86\Debug\VirtualReality.pdb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\x86\Debug\XapCacheFile.xml

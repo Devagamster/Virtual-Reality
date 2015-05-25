@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>a997cc20-e663-47ff-bee0-843c08c3099f</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>VirtualRealityShared</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)AugmentedRealityGame.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AugmentedRealityGames\HillAssault\HillAssault.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AugmentedRealityGames\HillAssault\HillAssaultBaddie.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AugmentedRealityGames\MainMenu\MainMenu.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AugmentedRealityGames\Maze.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Game1.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MadgwickAHRS.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)MahonyAHRS.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)VertexManager.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)VertexRenderer.cs" />
+  </ItemGroup>
+</Project>

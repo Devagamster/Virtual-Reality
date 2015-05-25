@@ -1,0 +1,2 @@
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\HardwareWrapperWindowsPhone\HardwareWrapperWindowsPhone.csproj;arm
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\VirtualReality.csproj;arm

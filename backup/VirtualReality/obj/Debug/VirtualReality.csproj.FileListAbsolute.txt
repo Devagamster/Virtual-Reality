@@ -1,0 +1,21 @@
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\VirtualReality.dll
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\VirtualReality.pdb
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\AppManifest.xaml
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\VirtualReality_Debug_AnyCPU.xap
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\Debug\App.g.cs
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\Debug\MainPage.g.cs
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\Debug\VirtualReality.g.resources
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\Debug\VirtualReality.Resources.AppResources.resources
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\Debug\VirtualReality.csproj.GenerateResource.Cache
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\Debug\VirtualReality.dll
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\Debug\VirtualReality.pdb
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\Debug\XapCacheFile.xml
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\obj\Debug\VirtualReality.dll
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\obj\Debug\VirtualReality.pdb

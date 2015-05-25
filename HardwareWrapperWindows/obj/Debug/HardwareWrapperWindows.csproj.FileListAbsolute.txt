@@ -1,0 +1,5 @@
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\HardwareWrapperWindows\bin\Debug\HardwareWrapperWindows.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\HardwareWrapperWindows\bin\Debug\HardwareWrapperWindows.pdb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\HardwareWrapperWindows\obj\Debug\HardwareWrapperWindows.csprojResolveAssemblyReference.cache
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\HardwareWrapperWindows\obj\Debug\HardwareWrapperWindows.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\HardwareWrapperWindows\obj\Debug\HardwareWrapperWindows.pdb

@@ -1,0 +1,118 @@
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\ApplicationIcon.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\VirtualReality.dll
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\VirtualReality.pdb
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\AppManifest.xaml
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\Properties\WMAppManifest.xml
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\VirtualReality_Debug_ARM.xap
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\MonoGame.Framework.dll
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.dll
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.Direct3D11.dll
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.XAudio2.dll
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.DXGI.dll
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.WP8.winmd
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\MonoGame.Framework.pdb
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.xml
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.Direct3D11.xml
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.XAudio2.xml
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.DXGI.xml
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.WP8.dll
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.csprojResolveAssemblyReference.cache
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\ARM\Debug\App.g.cs
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\ARM\Debug\GamePage.g.cs
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.g.resources
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.Resources.AppResources.resources
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.csproj.GenerateResource.Cache
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.dll
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.pdb
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\ARM\Debug\XapCacheFile.xml
+c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\ARM\Debug\Content\Debug.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\ApplicationIcon.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\Content\Debug.png
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\VirtualReality.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\VirtualReality.pdb
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\AppManifest.xaml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\Properties\WMAppManifest.xml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\VirtualReality_Debug_ARM.xap
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\MonoGame.Framework.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.XAudio2.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.DXGI.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.WP8.winmd
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\MonoGame.Framework.pdb
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.xml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.XAudio2.xml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.DXGI.xml
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.WP8.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.csprojResolveAssemblyReference.cache
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\ARM\Debug\App.g.cs
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\ARM\Debug\GamePage.g.cs
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.g.resources
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.Resources.AppResources.resources
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.csproj.GenerateResource.Cache
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.dll
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.pdb
+C:\Users\Keith\Desktop\VirtualReality\VirtualReality\obj\ARM\Debug\XapCacheFile.xml
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\ApplicationIcon.png
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\Bin\ARM\Debug\MonoGame.Framework.dll
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\Bin\ARM\Debug\MonoGame.Framework.pdb
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.csprojResolveAssemblyReference.cache
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\obj\ARM\Debug\App.g.cs
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\obj\ARM\Debug\GamePage.g.cs
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.g.resources
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.Resources.AppResources.resources
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.csproj.GenerateResource.Cache
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.dll
+C:\Users\Keith\Dropbox\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.pdb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\ApplicationIcon.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\VirtualReality.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\VirtualReality.pdb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\AppManifest.xaml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\Properties\WMAppManifest.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\VirtualReality_Debug_ARM.xap
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\MonoGame.Framework.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.Direct3D11.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.XAudio2.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.DXGI.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.Direct3D11.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.XAudio2.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.DXGI.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\ARM\Debug\App.g.cs
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.g.resources
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.Resources.AppResources.resources
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.csproj.GenerateResource.Cache
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.pdb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\ARM\Debug\XapCacheFile.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\ARM\Debug\GamePage.g.cs
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\Content\CompiledContent\Debug.xnb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\Content\CompiledContent\OculusRift.xnb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\MonoGame.Framework.xml
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.WP8.winmd
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\SharpDX.WP8.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\obj\ARM\Debug\VirtualReality.csprojResolveAssemblyReference.cache
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\HardwareWrapperWindowsPhone.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\VirtualReality\Bin\ARM\Debug\HardwareWrapperWindowsPhone.pdb

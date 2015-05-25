@@ -1,0 +1,12 @@
+﻿<xapCache source="c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\VirtualReality_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="11/28/2014 12:17:00 AM">
+  <file source="c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\obj\Debug\VirtualReality.dll" archivePath="VirtualReality.dll" lastWriteTime="11/28/2014 12:17:00 AM" />
+  <file source="c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="11/28/2014 12:17:00 AM" />
+  <file source="c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="11/28/2014 12:16:58 AM" />
+  <file source="c:\users\keith\documents\visual studio 2013\Projects\VirtualReality\VirtualReality\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="11/28/2014 12:17:00 AM" />
+</xapCache>

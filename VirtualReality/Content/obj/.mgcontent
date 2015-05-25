@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsPhone8</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/Debug.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/OculusRift.fx</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/TextFont.spritefont</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/Grass.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/Crosshair.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/MazeBanner.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/MazeBarrel.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/MazeBlueStone.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/MazeBoards.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/MazeBrick.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/MazeCobbleStone.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/MazeLamp.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/MazeMossyStone.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/MazePillar.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/MazeStone.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/MazeVines.png</File>
+    <File>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/VrBaddie.png</File>
+  </SourceFiles>
+</SourceFileCollection>

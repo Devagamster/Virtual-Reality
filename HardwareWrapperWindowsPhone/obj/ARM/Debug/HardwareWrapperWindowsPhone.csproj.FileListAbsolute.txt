@@ -1,0 +1,4 @@
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\HardwareWrapperWindowsPhone\Bin\ARM\Debug\HardwareWrapperWindowsPhone.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\HardwareWrapperWindowsPhone\Bin\ARM\Debug\HardwareWrapperWindowsPhone.pdb
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\HardwareWrapperWindowsPhone\obj\ARM\Debug\HardwareWrapperWindowsPhone.dll
+C:\Users\Keith\Dropbox\Keith's Crap\VirtualReality\HardwareWrapperWindowsPhone\obj\ARM\Debug\HardwareWrapperWindowsPhone.pdb

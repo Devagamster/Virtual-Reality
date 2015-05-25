@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/OculusRift.fx</SourceFile>
+  <SourceTime>2014-12-06T14:03:39.6632589-08:00</SourceTime>
+  <DestFile>C:/Users/Keith/Dropbox/Keith's Crap/VirtualReality/VirtualReality/Content/CompiledContent/OculusRift.xnb</DestFile>
+  <DestTime>2014-12-06T21:23:37.5312061-08:00</DestTime>
+  <Importer>EffectImporter</Importer>
+  <Processor>EffectProcessor</Processor>
+  <Parameters>
+    <Key>DebugMode</Key>
+    <Value>Auto</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
